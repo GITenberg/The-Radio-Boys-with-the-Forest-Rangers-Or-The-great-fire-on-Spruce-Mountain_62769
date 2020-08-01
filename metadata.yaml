@@ -1,0 +1,31 @@
+_repo: The-Radio-Boys-with-the-Forest-Rangers-Or-The-great-fire-on-Spruce-Mountain_62769
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Binns, Jack
+    alias: Binns, John Robinson
+    birthdate: 1884
+    deathdate: 1959
+    gutenberg_agent_id: '37336'
+    url: http://www.gutenberg.org/2009/agents/37336
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_issued: '2020-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forest rangers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Radio -- Juvenile fiction'
+- GITenberg
+title: The Radio Boys with the Forest Rangers; Or, The great fire on Spruce Mountain
+url: http://www.gutenberg.org/ebooks/62769
